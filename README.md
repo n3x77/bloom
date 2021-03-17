@@ -19,7 +19,7 @@ easy to use the tool in a pipeline workflow.
        bloom [global options] command [command options] [arguments...]
 
     VERSION:
-       0.2.2
+       0.2.3
 
     COMMANDS:
          create, cr         Create a new Bloom filter and store it in the given filename.

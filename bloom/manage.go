@@ -471,7 +471,7 @@ func main() {
 			},
 		},
 	}
-	app.Version = "0.2.2"
+	app.Version = "0.2.3"
 
 	app.Run(os.Args)
 }
